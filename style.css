@@ -2,3 +2,7 @@ body {
     background-color: burlywood;
 }
     
+#banner {
+    width: 10cm;
+    height: auto;
+}
